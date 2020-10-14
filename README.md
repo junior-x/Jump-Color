@@ -1,5 +1,4 @@
 # Jump-Color
-MiniGame Study
 
 
 Getting cool with C# studies, if you want to track by my side feel free to watch and share some cheers.
