@@ -1,5 +1,5 @@
 # Jump-Color
-#9f1fc6 csharp /// MiniGame Study
+MiniGame Study
 
 
 Getting cool with C# studies, if you want to track by my side feel free to watch and share some cheers.
